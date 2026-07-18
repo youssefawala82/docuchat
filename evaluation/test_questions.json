@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Who founded Nebula Robotics and in what year?",
+    "expected_answer": "Elena Vasquez and Tom Okafor founded the company in 2019.",
+    "should_refuse": false
+  },
+  {
+    "id": 2,
+    "question": "How many days of paid vacation do full-time employees get in their first three years?",
+    "expected_answer": "18 days per year.",
+    "should_refuse": false
+  },
+  {
+    "id": 3,
+    "question": "How many vacation days do employees get after three years?",
+    "expected_answer": "23 days per year.",
+    "should_refuse": false
+  },
+  {
+    "id": 4,
+    "question": "What is the battery life of the second-generation Skimmer robot?",
+    "expected_answer": "14 hours per charge.",
+    "should_refuse": false
+  },
+  {
+    "id": 5,
+    "question": "Which employee roles are required to work on-site five days a week?",
+    "expected_answer": "Manufacturing, hardware testing, and on-site logistics roles.",
+    "should_refuse": false
+  },
+  {
+    "id": 6,
+    "question": "How far in advance must remote work requests be submitted?",
+    "expected_answer": "At least one week in advance, through the HR portal.",
+    "should_refuse": false
+  },
+  {
+    "id": 7,
+    "question": "What is the threshold above which expenses require pre-approval?",
+    "expected_answer": "Expenses over $500 require pre-approval from a direct manager.",
+    "should_refuse": false
+  },
+  {
+    "id": 8,
+    "question": "How many business days does reimbursement typically take after approval?",
+    "expected_answer": "10 business days.",
+    "should_refuse": false
+  },
+  {
+    "id": 9,
+    "question": "In which months are performance reviews conducted?",
+    "expected_answer": "March and September.",
+    "should_refuse": false
+  },
+  {
+    "id": 10,
+    "question": "What is Nebula Fleet Manager?",
+    "expected_answer": "A software dashboard that lets warehouse operators track and schedule robots in real time.",
+    "should_refuse": false
+  },
+  {
+    "id": 11,
+    "question": "What is the CEO's email address?",
+    "expected_answer": "Not stated in the documents.",
+    "should_refuse": true
+  },
+  {
+    "id": 12,
+    "question": "Does the company offer a 401k match?",
+    "expected_answer": "Not stated in the documents.",
+    "should_refuse": true
+  },
+  {
+    "id": 13,
+    "question": "How many patents does Nebula Robotics hold?",
+    "expected_answer": "Not stated in the documents.",
+    "should_refuse": true
+  },
+  {
+    "id": 14,
+    "question": "What is the company's revenue for 2025?",
+    "expected_answer": "Not stated in the documents.",
+    "should_refuse": true
+  },
+  {
+    "id": 15,
+    "question": "Who is Nebula Robotics' biggest competitor?",
+    "expected_answer": "Not stated in the documents.",
+    "should_refuse": true
+  }
+]

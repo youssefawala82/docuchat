@@ -5,6 +5,7 @@ langchain-community
 faiss-cpu
 pypdf
 python-docx
+docx2txt
 tiktoken
 python-dotenv
 pytest

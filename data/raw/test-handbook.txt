@@ -1,0 +1,48 @@
+Company Handbook — Nebula Robotics Inc.
+
+About the Company
+Nebula Robotics Inc. was founded in 2019 by Elena Vasquez and Tom Okafor in
+Austin, Texas. The company builds autonomous warehouse robots used by
+logistics companies to move inventory between storage shelves and packing
+stations. As of 2026, Nebula Robotics employs 340 people across three
+offices: Austin (headquarters), Berlin, and Singapore.
+
+Product Line
+The company's flagship product is the "Skimmer" robot, a low-profile
+autonomous cart that slides under shelving units and lifts them for
+transport. The second-generation Skimmer, released in 2023, increased
+battery life from 6 hours to 14 hours per charge and added obstacle
+detection using LIDAR sensors. Nebula also sells "Nebula Fleet Manager,"
+a software dashboard that lets warehouse operators track and schedule
+robots in real time.
+
+Vacation Policy
+Full-time employees accrue 18 days of paid vacation per year during their
+first three years of employment. After three years, this increases to 23
+days per year. Vacation days do not roll over between calendar years,
+except for up to 5 unused days, which may be carried into the next year
+with manager approval. Part-time employees accrue vacation on a pro-rated
+basis according to their contracted hours.
+
+Remote Work Policy
+Employees in engineering, design, and customer success roles may work
+remotely up to 3 days per week, subject to manager approval. Employees
+in manufacturing, hardware testing, and on-site logistics roles are
+required to work on-site five days per week due to the physical nature
+of their work. All remote work requests must be submitted through the
+HR portal at least one week in advance.
+
+Expense Reimbursement
+Employees may submit expense reports for approved business travel,
+client meetings, and necessary equipment purchases. Reimbursement
+requests must be submitted within 30 days of the expense and require a
+valid receipt. Expenses over $500 require pre-approval from a direct
+manager before the purchase is made. Reimbursements are typically
+processed within 10 business days of approval.
+
+Performance Reviews
+Nebula Robotics conducts formal performance reviews twice per year, in
+March and September. Reviews are based on goals set collaboratively
+between the employee and their manager during the previous review cycle.
+Salary adjustments, when applicable, are typically implemented following
+the September review cycle, effective the following January.
