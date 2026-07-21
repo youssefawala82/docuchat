@@ -1,3 +1,4 @@
+from langchain_community.vectorstores import FAISS
 import time
 
 def build_vectorstore(chunks):
